@@ -108,5 +108,3 @@ Vignesh K
 B.Tech – Information Technology
 Java & Full-Stack Developer
 
-<img width="953" height="527" alt="Image" src="https://github.com/user-attachments/assets/c7adb89e-c61a-4036-a3de-97f352b0dd9d" />
-<img width="926" height="503" alt="Image" src="https://github.com/user-attachments/assets/e06b9363-3333-46b6-a746-21810ff1d68f" />
